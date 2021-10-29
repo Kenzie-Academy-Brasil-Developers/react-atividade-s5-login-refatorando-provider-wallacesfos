@@ -1,0 +1,19 @@
+.login{
+    width: 320px;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eeeeee;
+    flex-direction: column;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius:15px ;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.41); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.41);
+}
+
+.margin-input{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
